@@ -1,6 +1,7 @@
 body {
-    background-color: bisque;
+    background-color: orange;
+    background-color: linear-gradient(orange,black,yellow);
 }
 h1,h2{
-    color: #0000ff;
+    color: #080808;
 }
